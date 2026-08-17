@@ -77,3 +77,9 @@ Each frame, `Physics.step()` runs the following pipeline:
 7. **Collisions** — particles are bounced off the screen boundaries and off the static circular obstacle, both with damped velocity
 
 `Particle.draw()` then colors each particle by its current speed before `main.py` flips the display.
+
+## 🎥 Video
+
+Here is a video showcasing the simulation in action:
+
+https://github.com/user-attachments/assets/024ab9ce-09bd-44e9-8b6a-86105e09b574
