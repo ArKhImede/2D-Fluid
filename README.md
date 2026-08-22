@@ -47,7 +47,9 @@ pip install pygame
 ## Usage
 
 Run the simulation with:
-```python main.py```
+```
+python main.py
+```
 
 A window will open showing the fluid settling under gravity. Click and drag anywhere on the screen to stir the particles.
 
